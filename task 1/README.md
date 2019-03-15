@@ -8,7 +8,10 @@ The BuscaCEP.py file has the binary search implementation for the cep_ordenado.d
 
 You should uncompress the file cep_ordenado.dat.tar.gz
 
-To run, type in a terminal the command "python \filename\ \zip\"
+To run, type in a terminal the command
+```
+python <filename> <zip>
+```
 
 Examples:
 ```
