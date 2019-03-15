@@ -11,5 +11,7 @@ You should uncompress the file cep_ordenado.dat.tar.gz
 To run, type in a terminal the command "python <filename> <zip>
 
 Examples:
-    python BuscaCEPForcaBruta.py 22760080
-    python BuscaCEP.py 22760080
+
+python BuscaCEPForcaBruta.py 22760080
+
+python BuscaCEP.py 22760080
