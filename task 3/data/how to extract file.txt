@@ -1,0 +1,11 @@
+1. Open a terminal
+
+2. In terminal, type
+	cat x* > bolsa.csv.tar.gz
+
+3. The files will be join and the result file will have 369,2MB aproximately
+
+4. Extract the result file with tar
+	tar -xvf bolsa.csv.tar.gz
+
+5. The file will be extract and will have 1,7GB aproximately
