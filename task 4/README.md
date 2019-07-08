@@ -6,4 +6,4 @@ For the experiment, we selected 100,000 valid NIS from the bolsa.csv file used i
 
 The experiment was implemented in a jupyter notebook and its html version is also available. The graph with the result is in the notebook jupyter and also in the "evaluating.png" file.
 
-As a conclusion, the btree structure exhibits higher performance as the amount of fetch data increases.
+As a conclusion, the hash structure exhibits higher performance as the amount of fetch data increases.
